@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Proj_Lucro/1.0.0": {
+        "runtime": {
+          "Proj_Lucro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proj_Lucro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

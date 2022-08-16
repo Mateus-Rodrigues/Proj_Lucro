@@ -1,0 +1,15 @@
+C:\dev\Proj_Lucro\bin\Debug\net6.0\Proj_Lucro.exe
+C:\dev\Proj_Lucro\bin\Debug\net6.0\Proj_Lucro.deps.json
+C:\dev\Proj_Lucro\bin\Debug\net6.0\Proj_Lucro.runtimeconfig.json
+C:\dev\Proj_Lucro\bin\Debug\net6.0\Proj_Lucro.dll
+C:\dev\Proj_Lucro\bin\Debug\net6.0\Proj_Lucro.pdb
+C:\dev\Proj_Lucro\obj\Debug\net6.0\Proj_Lucro.csproj.AssemblyReference.cache
+C:\dev\Proj_Lucro\obj\Debug\net6.0\Proj_Lucro.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Proj_Lucro\obj\Debug\net6.0\Proj_Lucro.AssemblyInfoInputs.cache
+C:\dev\Proj_Lucro\obj\Debug\net6.0\Proj_Lucro.AssemblyInfo.cs
+C:\dev\Proj_Lucro\obj\Debug\net6.0\Proj_Lucro.csproj.CoreCompileInputs.cache
+C:\dev\Proj_Lucro\obj\Debug\net6.0\Proj_Lucro.dll
+C:\dev\Proj_Lucro\obj\Debug\net6.0\refint\Proj_Lucro.dll
+C:\dev\Proj_Lucro\obj\Debug\net6.0\Proj_Lucro.pdb
+C:\dev\Proj_Lucro\obj\Debug\net6.0\Proj_Lucro.genruntimeconfig.cache
+C:\dev\Proj_Lucro\obj\Debug\net6.0\ref\Proj_Lucro.dll
